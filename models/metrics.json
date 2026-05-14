@@ -1,0 +1,42 @@
+{
+  "Logistic Regression": {
+    "accuracy": 100.0,
+    "train_time_s": 0.03
+  },
+  "Decision Tree": {
+    "accuracy": 95.0,
+    "train_time_s": 0.01
+  },
+  "Random Forest": {
+    "accuracy": 100.0,
+    "train_time_s": 0.33
+  },
+  "SVM": {
+    "accuracy": 100.0,
+    "train_time_s": 0.05
+  },
+  "KNN": {
+    "accuracy": 90.0,
+    "train_time_s": 0.0
+  },
+  "Naive Bayes": {
+    "accuracy": 95.0,
+    "train_time_s": 0.0
+  },
+  "XGBoost": {
+    "accuracy": 100.0,
+    "train_time_s": 0.44
+  },
+  "Gradient Boosting": {
+    "accuracy": 95.0,
+    "train_time_s": 0.86
+  },
+  "LightGBM": {
+    "accuracy": 100.0,
+    "train_time_s": 2.39
+  },
+  "ANN": {
+    "accuracy": 85.0,
+    "train_time_s": 10.5
+  }
+}
