@@ -155,4 +155,4 @@ if __name__ == "__main__":
     print("🌱 SoilSense ML API starting...")
     print(f"📁 Model directory: {MODEL_DIR}")
     print(f"🤖 Available models: {list(SKLEARN_MODELS.keys()) + ['ANN']}")
-    app.run(host="0.0.0.0", port=8000, debug=True)
+    app.run(host="0.0.0.0", port=8000)
